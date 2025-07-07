@@ -1,6 +1,6 @@
-# Run and deploy your AI Studio app
+# ListCal
 
-This contains everything you need to run your app locally.
+## [ListCal](https://listcal-df637.web.app/) is a calculator that you can make list of item to calculate it
 
 ## Run Locally
 
