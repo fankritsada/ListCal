@@ -1,0 +1,5 @@
+{
+  "name": "ListCal",
+  "description": "A sleek application for creating and managing multiple shopping lists. It automatically saves all data to local storage, calculates total costs in real-time, and provides essential tools for list management.",
+  "requestFramePermissions": []
+}
